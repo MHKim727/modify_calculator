@@ -2,6 +2,6 @@
 
 int sub(int a, int b)
 {
-    print("sub play");
+    printf("sub play");
     return a-b;
 }

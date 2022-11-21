@@ -2,6 +2,6 @@
 
 int dur(int a, int b)
 {
-    print("dur play");
+    printf("dur play");
     return a/b;
 }

@@ -2,6 +2,6 @@
 
 int mul(int a, int b)
 {
-    print("mul play");
+    printf("mul play");
     return a*b;
 }

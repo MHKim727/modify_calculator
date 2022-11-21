@@ -2,6 +2,6 @@
 
 int add(int a, int b)
 {
-    print("add play");
+    printf("add play");
     return a+b;
 }
