@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
     printf("===============\n");
     printf("===============\n");
     printf("===============\n");
+    printf("Calculator Finish");
 
     return 0;
 }
